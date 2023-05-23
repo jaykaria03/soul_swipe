@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Soul Swipe</string>
+    <string name="enter_the_otp">Enter The \nOTP</string>
+    <string name="btn_continue">Continue</string>
+    <string name="enter_your_phone_number">Enter Your \nPhone Number</string>
+    <string name="coming_soon">Coming Soon</string>
+    <string name="notes">Notes</string>
+    <string name="personal_messages_to_you">Personal messages to you</string>
+    <string name="interested_in_you">Interested In You</string>
+    <string name="premium_members_can_view_all_their_likes_at_once">Premium members can \nview all their likes at once</string>
+    <string name="upgrade">Upgrade</string>
+    <string name="some_error_occurred_please_try_again_in_sometime">Some error occurred. Please try again in sometime</string>
+    <string name="fetching_information">Fetching information</string>
+    <string name="enter_a_valid_otp">Enter a valid OTP</string>
+    <string name="please_enter_otp">Please Enter OTP</string>
+    <string name="phone_number_not_registered">Phone Number not registered</string>
+    <string name="please_enter_phone_number">Please Enter Phone Number</string>
+    <string name="please_enter_country_code">Please Enter Country Code</string>
+</resources>

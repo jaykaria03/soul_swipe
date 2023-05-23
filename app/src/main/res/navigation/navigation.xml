@@ -1,0 +1,25 @@
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:startDestination="@id/fragment_discover">
+
+    <fragment
+        android:id="@+id/fragment_discover"
+        android:name="com.discover.soulswipe.presentation.discover.ui.DiscoverFragment"
+        android:label="Fragment 1" />
+
+    <fragment
+        android:id="@+id/fragment_notes"
+        android:name="com.discover.soulswipe.presentation.notes.ui.NotesFragment"
+        android:label="Fragment 2" />
+
+    <fragment
+        android:id="@+id/fragment_matches"
+        android:name="com.discover.soulswipe.presentation.matches.ui.MatchesFragment"
+        android:label="Fragment 3" />
+
+    <fragment
+        android:id="@+id/fragment_profile"
+        android:name="com.discover.soulswipe.presentation.profile.ui.ProfileFragment"
+        android:label="Fragment 4" />
+
+</navigation>

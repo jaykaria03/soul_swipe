@@ -1,0 +1,24 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/fragment_discover"
+        android:title="discover"
+        android:icon="@drawable/icon_discover"/>
+
+    <item
+        android:id="@+id/fragment_notes"
+        android:title="notes"
+        android:icon="@drawable/icon_notes"/>
+
+    <item
+        android:id="@+id/fragment_matches"
+        android:title="matches"
+        android:icon="@drawable/icon_matches"/>
+
+    <item
+        android:id="@+id/fragment_profile"
+        android:title="profile"
+        android:icon="@drawable/icon_profile"
+        app:actionViewClass="android.widget.RelativeLayout"/>
+
+</menu>

@@ -1,0 +1,12 @@
+<resources>
+
+    <style name="Base.Theme" parent="Theme.MaterialComponents.NoActionBar">
+    </style>
+
+    <style name="CustomBottomNavigationView" parent="Widget.Design.BottomNavigationView">
+        <item name="itemTextColor">@color/black</item>
+        <item name="itemIconTint">@color/selector_bottom_nav</item>
+        <item name="itemTextAppearanceActive">@color/black</item>
+        <item name="itemTextAppearanceInactive">@color/grey</item>
+    </style>
+</resources>
